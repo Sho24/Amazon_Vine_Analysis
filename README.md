@@ -16,7 +16,7 @@
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 - 38.2% of the five_star reviews were vine
 - 38.9% of the five_star reviews were non-vine
-<img width="1361" alt="Screen Shot 2020-11-08 at 6 59 01 PM" src="https://user-images.githubusercontent.com/67278193/98488026-cec9ca80-21f4-11eb-96ee-4aad73f98509.png">
+<img width="1361" alt="Screen Shot 2021-12-16 at 6 59 01 PM" src="https://user-images.githubusercontent.com/67278193/98488026-cec9ca80-21f4-11eb-96ee-4aad73f98509.png">
 
 ## Summary: 
 -After I had come up with my analysis there does not appear to be any sort of positivity bias because the percentages shown above are very similar at 38%. To conclude the analysis the vine program does not show any bias.
